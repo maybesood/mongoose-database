@@ -1,0 +1,16 @@
+{
+  "name": "fruits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devStart":"nodemon script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.0"
+  }
+}
